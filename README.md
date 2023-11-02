@@ -17,3 +17,7 @@ Initial steps to create api, which runs in node.
 ## creating port in .env
 
 .env is created in the main folder and it must be included in the .gitignore file.
+
+## create api request REST
+
+- first, get movies as array of objects
