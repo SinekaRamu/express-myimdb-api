@@ -13,3 +13,7 @@ Initial steps to create api, which runs in node.
     - `npm i uuid` used to create unique id.
 
 6. change the script in package.json
+
+## creating port in .env
+
+.env is created in the main folder and it must be included in the .gitignore file.
